@@ -1,6 +1,6 @@
 # Ducktor
 
-[![CI](https://github.com/NuclearPowered/Reactor/workflows/CI/badge.svg)](https://github.com/NuclearPowered/Reactor/actions)
+[![CI](https://github.com/Matchducking/Ducktor/workflows/CI/badge.svg)](https://github.com/Matchducking/Ducktor/actions)
 [![GitHub release](https://img.shields.io/github/v/release/NuclearPowered/Reactor?include_prereleases)](https://github.com/NuclearPowered/Reactor/releases)
 [![Discord](https://img.shields.io/discord/766765155136307250.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://reactor.gg/discord)
 
